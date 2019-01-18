@@ -6,7 +6,7 @@ add manually the score points of each and calculate the final benchmark point.
 It is fully functional however not bug free, if you interested to the project, feel free to contribute.
 
 <br>
-❮img src="static/bmtool.JPG" width="100" ❯
+<img src="static/bmtool.JPG" width="100" >
 <br>
 
 Graphical components source:<br>
