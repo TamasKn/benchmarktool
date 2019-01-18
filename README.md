@@ -5,7 +5,7 @@ Initially created to PC Building Simulator as an aid tool. Listed all GPU and CP
 add manually the score points of each and calculate the final benchmark point. 
 It is fully functional however not bug free, if you interested to the project, feel free to contribute.
 
-![](blob/master/bm_tool.JPG)
+![](static/bmtool.JPG)
 
 Graphical components source:<br>
 https://www.flaticon.com/authors/srip<br>
