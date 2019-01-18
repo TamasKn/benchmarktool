@@ -1,0 +1,9 @@
+/*.inputField {
+    -fx-font-family: "Serif";
+    -fx-text-fill: gray;
+}*/
+
+#close_button:hover, #min_button:hover {
+    -fx-opacity: 0.5;
+
+}
