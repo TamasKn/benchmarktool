@@ -1,5 +1,5 @@
-# benchmarktool
-Benchmark Calculator
+
+#Benchmark Calculator
 
 Initially created to PC Building Simulator as an aid tool. Listed all GPU and CPU hardwares, user can choose from the list or add 
 manually the score points of each and calculate the final benchmark point.
